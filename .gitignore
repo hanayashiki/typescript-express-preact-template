@@ -1,0 +1,7 @@
+logs
+dist
+node_modules
+!test/*/node_modules
+.idea/
+
+.DS_Store
